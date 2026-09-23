@@ -1,0 +1,6 @@
+{
+  "name": "Bruno Designer",
+  "description": "Design gráfico, fotografia comercial, comunicação visual, impressões e sistemas para gestão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
